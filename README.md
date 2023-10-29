@@ -30,5 +30,5 @@ This repository is your gateway to developing an AI chat bot using Python, Googl
   ```
 
 ### Start your AI Chatbot
-```bash
-streamlit run Palm.py
+ ```bash
+ streamlit run Palm.py
