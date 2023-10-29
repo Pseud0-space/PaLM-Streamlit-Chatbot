@@ -33,8 +33,6 @@ This repository is your gateway to developing an AI chat bot using Python, Googl
  ```bash
  streamlit run Palm.py
 ```
-
-
-
-
+\
+\
 *Image Credits: [Google PaLM Logo - https://en.wikipedia.org](https://upload.wikimedia.org/wikipedia/commons/c/ca/Google_PaLM_Logo.svg)*
