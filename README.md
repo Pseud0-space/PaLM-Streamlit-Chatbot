@@ -1,7 +1,7 @@
 # PaLM-Streamlit-Chatbot
 Welcome to the AI Chat Bot project! 🤖💬
 
-This repository is your gateway to developing a cutting-edge AI chat bot using Python, Google's PaLM API, and Streamlit. Whether you're a developer, an AI enthusiast, or a business owner looking to explore the world of conversational AI, this project provides you with the tools and knowledge to get started.
+This repository is your gateway to developing an AI chat bot using Python, Google's PaLM API, and Streamlit. Whether you're a developer or an AI enthusiast looking to explore the world of conversational AI, this project provides you with the knowledge to get started.
 
 ## Key Features:
 
