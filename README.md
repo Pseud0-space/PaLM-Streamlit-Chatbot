@@ -23,7 +23,7 @@ This repository is your gateway to developing a cutting-edge AI chat bot using P
   ```bash
   pip install -r requirements.txt
   ```
-  OR
+   or
   
   ```bash
   pip3 install -r requirements.txt
