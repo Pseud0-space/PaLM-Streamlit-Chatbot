@@ -19,13 +19,13 @@ This repository is your gateway to developing a cutting-edge AI chat bot using P
 * Generate your own PaLM API key
     [Google MakerSuite](https://makersuite.google.com/app/apikey "MakerSuite")
 * Install requirements for python
-      * Windows Users
-        ```bash
-        pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
+
+    OR
   
-      * Linux Users
-        ```bash
-        pip3 install -r requirements.txt
+  ```bash
+  pip3 install -r requirements.txt
 
 ### Start your AI Chatbot
 ```bash
