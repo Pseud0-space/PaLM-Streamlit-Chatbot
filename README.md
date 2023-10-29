@@ -16,6 +16,16 @@ This repository is your gateway to developing a cutting-edge AI chat bot using P
 * Clone this repository to your local machine.
     ```bash
     git clone https://github.com/Pseud0-space/PaLM-Streamlit-Chatbot.git
-* Follow the step-by-step tutorials in the project's documentation to create your own AI chat bot.
-* Customize your chat bot's capabilities, responses, and integration with PaLM.
-* Deploy your chat bot for real-world applications and interactions.
+* Generate your own PaLM API key
+    [Google MakerSuite](https://makersuite.google.com/app/apikey "MakerSuite")
+* Install requirements for python
+      * Windows Users
+        ```bash
+        pip install -r requirements.txt
+      * Linux Users
+        ```bash
+        pip3 install -r requirements.txt
+
+### Start your AI Chatbot
+```bash
+streamlit run Palm.py
