@@ -1,3 +1,5 @@
+#Author - MrSentinel
+
 import streamlit as st
 import google.generativeai as palm
 from dotenv import load_dotenv
@@ -14,10 +16,10 @@ def main():
     st.write("")
 
     prompt = st.text_input("Prompt please...", placeholder="Prompt", label_visibility="visible")
-    temp = st.slider("Temperature", 0.0, 1.0, step=0.05)
+    temp = st.slider("Temperature", 0.0, 1.0, step=0.05)    #Hyper parameter - range[0-1]
 
     if st.button("SEND", use_container_width=True):
-        model = "models/text-bison-001"
+        model = "models/text-bison-001"    #This is the only model currently available
 
         response = palm.generate_text(
             model=model,
